@@ -3,52 +3,935 @@
         "data": {
             "id": "ccdr4f5ocbc0",
             "created": 1624731143243,
-            "text": "main"
+            "text": "何する"
         },
         "children": [
             {
                 "data": {
                     "id": "ccdr4juj1a00",
                     "created": 1624731153453,
-                    "text": "wow"
+                    "text": "ウッフィーを増やす\n信頼を増やす\n人脈を増やす"
                 },
                 "children": [
                     {
                         "data": {
-                            "id": "ccdr4mh619c0",
-                            "created": 1624731159176,
-                            "text": "topic"
+                            "id": "cce6u2zjb140",
+                            "created": 1624775470867,
+                            "text": "なぜ",
+                            "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6b4ghruo0",
+                                    "created": 1624773985151,
+                                    "text": "ウッフィーで生活するというのは\nフィクションのようだが現実",
+                                    "progress": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6v9qst3c0",
+                                            "created": 1624775563941,
+                                            "text": "芸能人、youtuber"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6w9olrx40",
+                                                    "created": 1624775642172,
+                                                    "text": "人気というかあの人は笑わせてくれるだろうを叶える"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce6yvl8rw00",
+                                                    "created": 1624775846587,
+                                                    "text": "あんなふうに綺麗になりたいみたいな夢や理想を提供"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce7ei2zv8g0",
+                            "created": 1624777071012,
+                            "text": "どうやる"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce7ejpb5vk0",
+                                    "created": 1624777074538,
+                                    "text": "自分が良いと思うものを勧める"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7es5lwkg0",
+                                            "created": 1624777092937,
+                                            "text": "なぜ"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7eu93l7k0",
+                                                    "created": 1624777097502,
+                                                    "text": "良いと思ってなくても提供できる"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce7f496os00",
+                                                            "created": 1624777119275,
+                                                            "text": "それは後々の信用低下に寄与する"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce7fkcovjk0",
+                                                    "created": 1624777154316,
+                                                    "text": "いいと思ってなくてもいいと思っているように振る舞うこともできる"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce7fvoydd40",
+                                                            "created": 1624777179002,
+                                                            "text": "できると思ってやってれば大体のことはできるようになる\nみたいなことはあると思うが、どうなんだろうね？"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce7h35hh280",
+                                    "created": 1624777273603,
+                                    "text": "求められているものを提供する"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7h7zbtqg0",
+                                            "created": 1624777284115,
+                                            "text": "提供したいものを提供するのではない"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7he5ph0w0",
+                                            "created": 1624777297561,
+                                            "text": "何か提供できる？"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7hj0qp4g0",
+                                                    "created": 1624777308145,
+                                                    "text": "プログラミングの最初でつまづく人の手助け"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce7ht5ibzk0",
+                                                    "created": 1624777330201,
+                                                    "text": "JavaScriptを使い始めて3ヶ月くらいの人に非同期とか教える"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
             {
                 "data": {
-                    "id": "ccdr4pcwq7k0",
-                    "created": 1624731165448,
-                    "text": "hey"
+                    "id": "cce5kcoh3tc0",
+                    "created": 1624771887215,
+                    "text": "幸福度を増やす",
+                    "expandState": "expand"
                 },
                 "children": [
                     {
                         "data": {
-                            "id": "ccdr4s1me200",
-                            "created": 1624731171296,
-                            "text": "yeah"
+                            "id": "cce5jzpali00",
+                            "created": 1624771858966,
+                            "text": "収入を増やす"
                         },
                         "children": [
                             {
                                 "data": {
-                                    "id": "ccdr4ujxh8g0",
-                                    "created": 1624731176757,
-                                    "text": "aaaa"
+                                    "id": "cce73oox5gg0",
+                                    "created": 1624776223392,
+                                    "text": "将来的に貯蓄が足り無いかも"
                                 },
                                 "children": [
                                     {
                                         "data": {
-                                            "id": "ccdr4xb20f40",
-                                            "created": 1624731182751,
-                                            "text": "fooo"
+                                            "id": "cce73t7hwps0",
+                                            "created": 1624776233223,
+                                            "text": "調べようね"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce5kj7gxns0",
+                            "created": 1624771901424,
+                            "text": "時間を増やす"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce7496h3pk0",
+                                    "created": 1624776267989,
+                                    "text": "常に余裕は必要"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce74fi355s0",
+                                            "created": 1624776281752,
+                                            "text": "光が当たっている場所を見つけ次第、動くために"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce6avnfwi80",
+                            "created": 1624773965980,
+                            "text": "やりたいことをやる"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6eap4boo0",
+                                    "created": 1624774233825,
+                                    "text": "絵を描く"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7co7agcw0",
+                                            "created": 1624776927604,
+                                            "text": "楽しいね"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6ed55duo0",
+                                    "created": 1624774239148,
+                                    "text": "料理を作る"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7cat692w0",
+                                            "created": 1624776898452,
+                                            "text": "美味しいもの作って食べたいね"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7cjdv2ls0",
+                                            "created": 1624776917117,
+                                            "text": "美味しいもの作って振る舞うのいいね"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6ekkrazk0",
+                                    "created": 1624774255329,
+                                    "text": "大学に行く"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7awndljk0",
+                                            "created": 1624776789262,
+                                            "text": "ガチでコンピュータサイエンスとか学んでもいいかも"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7bg192rs0",
+                                                    "created": 1624776831460,
+                                                    "text": "オンライン上で教えてくれるサービスあるから行かなくてもいいかも"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7brajr2g0",
+                                            "created": 1624776855967,
+                                            "text": "卒業したっていうのがあると日本で強そう"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7bxzut080",
+                                            "created": 1624776870558,
+                                            "text": "卒業したっていうのがあると海外で働きやすいとかみたことある"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6eowdqv40",
+                                    "created": 1624774264739,
+                                    "text": "旅行"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce79am4p8g0",
+                                            "created": 1624776662934,
+                                            "text": "全く確信がないが、若いうちに行っておけという自己啓発本が多い気がした"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce79p1hlyg0",
+                                            "created": 1624776694337,
+                                            "text": "1年前くらいの体調不良で年をとると動けなくなるかも？と実感した"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6ernbb1s0",
+                                    "created": 1624774270721,
+                                    "text": "手芸"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7aae5q080",
+                                            "created": 1624776740816,
+                                            "text": "編み物とか楽しかったよ"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6exfwyu80",
+                                    "created": 1624774283335,
+                                    "text": "サーフィン"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7af8j29c0",
+                                            "created": 1624776751359,
+                                            "text": "なんかやってみたいよね"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce7656bv880",
+                                    "created": 1624776416002,
+                                    "text": "サウナ・温泉"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce7ajykyxc0",
+                                            "created": 1624776761642,
+                                            "text": "サウナは健康な気持ちになる"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7aqckekg0",
+                                            "created": 1624776775548,
+                                            "text": "温泉は暖かい"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce78nux4480",
+                                    "created": 1624776613399,
+                                    "text": "英語"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce78pznq6w0",
+                                            "created": 1624776618039,
+                                            "text": "共通言語だから"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce7936cq600",
+                                            "created": 1624776646742,
+                                            "text": "日本語はアプローチできる範囲が日本"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cce5lcrfn4g0",
+                    "created": 1624771965758,
+                    "text": "技術力をあげる"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cce6noe456w0",
+                            "created": 1624774968912,
+                            "text": "なぜ"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6nr33leo0",
+                                    "created": 1624774974777,
+                                    "text": "収入の増加"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6qn6pm6o0",
+                                            "created": 1624775201380,
+                                            "text": "なぜ"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6qr4b3aw0",
+                                                    "created": 1624775209942,
+                                                    "text": "将来的に結婚とかするなら不足？"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce6rbx26n40",
+                                                            "created": 1624775255216,
+                                                            "text": "本当に不足？"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "cce6rvxb2gg0",
+                                                                    "created": 1624775298767,
+                                                                    "text": "nisaとidecoで十分かもよ"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6nwmvz6w0",
+                                    "created": 1624774986857,
+                                    "text": "技術力の強化"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6qhpgug00",
+                                            "created": 1624775189454,
+                                            "text": "なぜ"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6r3r187s0",
+                                                    "created": 1624775237438,
+                                                    "text": "挑戦範囲を広げる"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6qepgbc80",
+                                    "created": 1624775182923,
+                                    "text": "アプリ開発"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6snkmxw80",
+                                            "created": 1624775358951,
+                                            "text": "なぜ",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6rh9jbrs0",
+                                                    "created": 1624775266855,
+                                                    "text": "日本でのiPhoneの流行りがすごい"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce6swc7o7k0",
+                                                    "created": 1624775378032,
+                                                    "text": "収入の増加"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce6t0mgl5s0",
+                                                    "created": 1624775387359,
+                                                    "text": "dartはJSに近くてすぐできそう"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce6o61ths00",
+                            "created": 1624775007351,
+                            "text": "どこまで"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6onmwz880",
+                                    "created": 1624775045632,
+                                    "text": "JS"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6oqyngog0",
+                                            "created": 1624775052872,
+                                            "text": "困って無い"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7839rrao0",
+                                                    "created": 1624776568585,
+                                                    "text": "なぜ"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce784ydpeg0",
+                                                            "created": 1624776572249,
+                                                            "text": "調べれば出てくる"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6pfelbg00",
+                                    "created": 1624775106078,
+                                    "text": "dart"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6piccs8o0",
+                                            "created": 1624775112474,
+                                            "text": "困って無い"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7839rrao0",
+                                                    "created": 1624776568585,
+                                                    "text": "なぜ"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce784ydpeg0",
+                                                            "created": 1624776572249,
+                                                            "text": "調べれば出てくる"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6p48fq2g0",
+                                    "created": 1624775081762,
+                                    "text": "ruby"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6p6525400",
+                                            "created": 1624775085911,
+                                            "text": "困ってない"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce7839rrao0",
+                                                    "created": 1624776568585,
+                                                    "text": "なぜ"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cce784ydpeg0",
+                                                            "created": 1624776572249,
+                                                            "text": "調べれば出てくる"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cce6ckq2gao0",
+                    "created": 1624774098922,
+                    "text": "技術力を確認する"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cce6jrk6obk0",
+                            "created": 1624774662353,
+                            "text": "JS関連",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6jvysnq00",
+                                    "created": 1624774671944,
+                                    "text": "chromeExtension"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6kvsnp9k0",
+                                    "created": 1624774749937,
+                                    "text": "test"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6k523cyg0",
+                                            "created": 1624774691734,
+                                            "text": "E2E"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6k84r2jc0",
+                                                    "created": 1624774698425,
+                                                    "text": "Puppeteer"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cce6kat54bk0",
+                                                    "created": 1624774704253,
+                                                    "text": "TestCafe"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce6l07s8080",
+                                            "created": 1624774759558,
+                                            "text": "unit"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cce6l2w05ls0",
+                                                    "created": 1624774765376,
+                                                    "text": "jest"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6fokqq480",
+                                    "created": 1624774342400,
+                                    "text": "JSどのくらいできる",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6g3w3rtk0",
+                                            "created": 1624774375738,
+                                            "text": "JSの作者からみたらひよっこ"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce6ge2so0o0",
+                                            "created": 1624774397911,
+                                            "text": "JS学び始めた人からするとめちゃ強"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce6h2mqlr40",
+                                            "created": 1624774451360,
+                                            "text": "他言語を専門としている人からはJSできる人",
+                                            "layout_left_offset": {
+                                                "x": -11,
+                                                "y": 2
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce6lgt6lxk0",
+                            "created": 1624774795681,
+                            "text": "ruby関連"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce6lz9gedk0",
+                                    "created": 1624774835847,
+                                    "text": "rubyどのくらいできる"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6m51w2qg0",
+                                            "created": 1624774848450,
+                                            "text": "Rubyの作者からみたらひよっこ"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce6mfpyh540",
+                                            "created": 1624774871673,
+                                            "text": "Ruby学び始めた人からすると強い"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce6mlsl1bk0",
+                                            "created": 1624774884893,
+                                            "text": "他言語を専門としている人からはRuby少しできる人"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cce6lw6i5a00",
+                                    "created": 1624774829138,
+                                    "text": "test"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce6mwt8mao0",
+                                            "created": 1624774908877,
+                                            "text": "rspec"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cce70u5mnxs0",
+                    "created": 1624776000194,
+                    "text": "売るための力をあげる"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cce713pfyhk0",
+                            "created": 1624776020983,
+                            "text": "ブランディング"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce731ou6xs0",
+                                    "created": 1624776173321,
+                                    "text": "あーあの人ねってなると強い"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce715va8g80",
+                            "created": 1624776025690,
+                            "text": "マーケティング"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce71it80ts0",
+                                    "created": 1624776053863,
+                                    "text": "なぜ"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce71kiyltk0",
+                                            "created": 1624776057596,
+                                            "text": "作れても売れ無い"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce71qb7jqw0",
+                                            "created": 1624776070188,
+                                            "text": "自分を売り出す"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cce720ven4o0",
+                                            "created": 1624776093178,
+                                            "text": "自分の作ったものを売り出す"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cce7266zovk0",
+                            "created": 1624776104762,
+                            "text": "セールス"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cce72lcufts0",
+                                    "created": 1624776137768,
+                                    "text": "なぜ"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cce72qabhxc0",
+                                            "created": 1624776148499,
+                                            "text": "作ったものを売りたい"
                                         },
                                         "children": []
                                     }
