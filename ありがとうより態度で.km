@@ -1,0 +1,87 @@
+{
+    "root": {
+        "data": {
+            "id": "ccoojqogzk00",
+            "created": 1625841039980,
+            "text": "ありがとうより態度で"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccoovfrd6u80",
+                    "created": 1625841956581,
+                    "text": "ossを見ていて思うがどうやってもありがとうで終わることが多い",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccooyf7jd080",
+                            "created": 1625842190474,
+                            "text": "あれが1人100円寄付していたら大きいよなあ"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccoovv5mpyg0",
+                    "created": 1625841990095,
+                    "text": "自分の収入ではまだ難しいと思う",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccoow27lyg80",
+                            "created": 1625842005452,
+                            "text": "自分が潰れてしまうことは一番避ける必要がある",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccoowo4rmz40",
+                                    "created": 1625842053170,
+                                    "text": "10万starとかついているプロジェクトに一人100円\n寄付していれば、1千万。くらいの考えで100円\nくらいなら寄付できるのではないか。",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccooyqp53xc0",
+                    "created": 1625842215483,
+                    "text": "ありがとうだけじゃ大体のことは成り立たない",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ccooz250mqo0",
+                    "created": 1625842240388,
+                    "text": "どうしてもあげられるものがない時はある\nそういう時はどうしようもない。いつか\n同じような状況の人を助けるとか。\n覚えておいて助けるとか、それでいいと思う。"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccop06qkqw00",
+                            "created": 1625842328763,
+                            "text": "でも人間てやってあげたことは覚えてても\nやってもらったことはそんなに覚えてない\nとかどっかで見たような気がするけど\nまあそれはしょうがない。忘れるものは\n忘れるよ"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

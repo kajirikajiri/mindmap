@@ -1,0 +1,998 @@
+{
+    "root": {
+        "data": {
+            "id": "ccol86nh33k0",
+            "created": 1625831671050,
+            "text": "次に伸ばすこと"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccolmzf1oxk0",
+                    "created": 1625832830764,
+                    "text": "関連知識の強化",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccol8p61f9k0",
+                            "created": 1625831711354,
+                            "text": "アプリ開発",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcei6kiw0",
+                                    "created": 1625832001600,
+                                    "text": "完成形",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolarc89ow0",
+                                            "created": 1625831872810,
+                                            "text": "成果物として見せやすい",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccolaizeu7k0",
+                                            "created": 1625831854621,
+                                            "text": "アプリ開発もできます",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccolucf0wig0",
+                                            "created": 1625833407610,
+                                            "text": "バックエンドから何から全て必要"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccomk0v72qo0",
+                                            "created": 1625835419935,
+                                            "text": "業務経験あります"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol8l3z8140",
+                            "created": 1625831702522,
+                            "text": "フロント他言語",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcaqj2ag0",
+                                    "created": 1625831993397,
+                                    "text": "完成形",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolaag5dxk0",
+                                            "created": 1625831836042,
+                                            "text": "あの言語も対応できます",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccolb49zj2g0",
+                                                    "created": 1625831900972,
+                                                    "text": "なんか押しが弱い",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol8jvy6c80",
+                            "created": 1625831699860,
+                            "text": "インフラ",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolc824d5s0",
+                                    "created": 1625831987568,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccollt5b1h40",
+                                            "created": 1625832738751,
+                                            "text": "フルスタックいけます",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ccoljn0zvnk0",
+                                    "created": 1625832568701,
+                                    "text": "現状",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccoljoxmtpc0",
+                                            "created": 1625832572851,
+                                            "text": "やればできるけど、周辺知識が少ない",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccola1l4w6g0",
+                            "created": 1625831816752,
+                            "text": "database",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcloq4w00",
+                                    "created": 1625832017233,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ccolk8pys3c0",
+                                    "created": 1625832615923,
+                                    "text": "現状",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolkaizgoo0",
+                                            "created": 1625832619855,
+                                            "text": "ちょっと勉強すればある程度できる",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccolkw1v0f40",
+                                                    "created": 1625832666708,
+                                                    "text": "railsに任せてきたけど\nある程度のレベルであれば\nすぐなれると思う",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol8g2wtco0",
+                            "created": 1625831691573,
+                            "text": "デザイン",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolc4fxw5k0",
+                                    "created": 1625831979697,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccol9dgs0ps0",
+                                            "created": 1625831764246,
+                                            "text": "デザインからフロントまでやりました",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccola4afc000",
+                            "created": 1625831822635,
+                            "text": "バックエンド",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcloq4w00",
+                                    "created": 1625832017233,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolip1hg9k0",
+                                            "created": 1625832494720,
+                                            "text": "rubyである程度できるからインフラの方いいと思う",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ccoljdzykb40",
+                                    "created": 1625832549047,
+                                    "text": "現状",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccoljgn7mz40",
+                                            "created": 1625832554807,
+                                            "text": "rubyできる",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccolbbwip0o0",
+                            "created": 1625831917572,
+                            "text": "ノーコード開発",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcloq4w00",
+                                    "created": 1625832017233,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccold05ffy00",
+                            "created": 1625832048718,
+                            "text": "機械学習",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolfbgyy7k0",
+                                    "created": 1625832230089,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccolde6csr40",
+                            "created": 1625832079249,
+                            "text": "rust",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolf8akfx40",
+                                    "created": 1625832223171,
+                                    "text": "完成形",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccoletlswug0",
+                                            "created": 1625832191199,
+                                            "text": "部分的な高速化",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccoli28nh9c0",
+                            "created": 1625832445087,
+                            "text": "blockchain",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolfbgyy7k0",
+                                    "created": 1625832230089,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccolpf3lqzc0",
+                            "created": 1625833021629,
+                            "text": "マーケ",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolfbgyy7k0",
+                                    "created": 1625832230089,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccolph4vrcg0",
+                            "created": 1625833026060,
+                            "text": "セールス",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolfbgyy7k0",
+                                    "created": 1625832230089,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccoltuuxkdk0",
+                            "created": 1625833369390,
+                            "text": "webサービス開発"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccomj9d7ze80",
+                                    "created": 1625835360075,
+                                    "text": "完成形",
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolupe88uo0",
+                                            "created": 1625833435860,
+                                            "text": "成果物として見せやすい"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccolucf0wig0",
+                                            "created": 1625833407610,
+                                            "text": "バックエンドから何から全て必要"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccolns6w8g00",
+                    "created": 1625832893398,
+                    "text": "若干別方向",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccol94kc2ow0",
+                            "created": 1625831744870,
+                            "text": "情シス",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcloq4w00",
+                                    "created": 1625832017233,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol8cko6qw0",
+                            "created": 1625831683940,
+                            "text": "教育",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolbq93fts0",
+                                    "created": 1625831948808,
+                                    "text": "完成形",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccol9l97f540",
+                                            "created": 1625831781202,
+                                            "text": "mentaの実績があり、教えるのが得意です",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol90jg4o80",
+                            "created": 1625831736109,
+                            "text": "スポーツ",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcloq4w00",
+                                    "created": 1625832017233,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolfllg1k00",
+                                            "created": 1625832252127,
+                                            "text": "運動もします。",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccolfpnnexs0",
+                                                    "created": 1625832260968,
+                                                    "text": "なんか押しが弱い",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccol8ufanjk0",
+                            "created": 1625831722797,
+                            "text": "イラスト",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolcjpdf480",
+                                    "created": 1625832012919,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccolffg3dn40",
+                                            "created": 1625832238743,
+                                            "text": "イラスト書いてプログラミングできます",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccolhymr1e80",
+                            "created": 1625832437233,
+                            "text": "ロボット",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ccolgorboo00",
+                            "created": 1625832337377,
+                            "text": "FP",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccolhhc6a200",
+                                    "created": 1625832399588,
+                                    "text": "完成形",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cconbms6wm00",
+                    "created": 1625837583475,
+                    "text": "思うこと"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cconbot63ko0",
+                            "created": 1625837587888,
+                            "text": "会社から見た時の利点になってるけど大丈夫？"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cconckc24y80",
+                                    "created": 1625837656510,
+                                    "text": "結局は何かをお金に変えないと死ぬ"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cconcyhl7og0",
+                                            "created": 1625837687319,
+                                            "text": "そう考えると必然的にそうなる？"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cconekxgng80",
+                            "created": 1625837814533,
+                            "text": "楽しいことはどれなんだろう"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cconfdq74nk0",
+                                    "created": 1625837877220,
+                                    "text": "教えるのは楽しい"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cconfh7g5wg0",
+                                            "created": 1625837884794,
+                                            "text": "お金を求めるのはなんか違う",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cconhg4dhhs0",
+                                                    "created": 1625838039159,
+                                                    "text": "例えば多くお金をもらったからその人に優先的に教えるというのはなんか違う",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cconhth183c0",
+                                                    "created": 1625838068223,
+                                                    "text": "本当に知りたい、学びたいという人に教えたい",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cconny8gh0g0",
+                                                            "created": 1625838548773,
+                                                            "text": "そういう人とのやりとりは楽しい"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cconqsnsiw00",
+                                                            "created": 1625838771732,
+                                                            "text": "そういう人とのやりとりは自分もやる気にさせられる"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cconi7pu8k00",
+                                                    "created": 1625838099230,
+                                                    "text": "答えが知りたいという人には答えを売る。\nそれは企業への労働力の提供と同じだと思う",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cconkjmjnts0",
+                                                            "created": 1625838281881,
+                                                            "text": "この方向で行くとJavaScriptのコンサルとかある？"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "cconkubuyf40",
+                                                                    "created": 1625838305179,
+                                                                    "text": "企業に一人くらいJavaScriptに詳しい人はいるだろう。"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cconl58mr940",
+                                                                    "created": 1625838328929,
+                                                                    "text": "startupとか？人が足りないところでは求めているかも。自分も最初は困った"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cconmrk3ekw0",
+                                                                    "created": 1625838455875,
+                                                                    "text": "PrototypeとかTimeoutとかstackの記事書いとけばいいかもね"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cconocb1iw80",
+                                                    "created": 1625838579404,
+                                                    "text": "金額の大小より気持ちを優先したい"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cconozax1200",
+                                                            "created": 1625838629463,
+                                                            "text": "じゃあ、気持ちが同じくらいで金額が絡んできたら？"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "cconp90jih40",
+                                                                    "created": 1625838650603,
+                                                                    "text": "両方教えたい、しかし無理だろう"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "cconpiubdzc0",
+                                                                    "created": 1625838671995,
+                                                                    "text": "金額になるのかなあ"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "cconpqgofig0",
+                                                                            "created": 1625838688585,
+                                                                            "text": "やっぱり金って必要なんだな"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cconfz3ahyo0",
+                                            "created": 1625837923724,
+                                            "text": "一発でわかることはあまりないから\n調べて自分の知識も増える",
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cconfq86kxs0",
+                                                    "created": 1625837904429,
+                                                    "text": "結果として\n教えることで教わることもある"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccongi7a5000",
+                                            "created": 1625837965324,
+                                            "text": "自分の知識が多いことが前提となる？"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccongq1s6o00",
+                                                    "created": 1625837982406,
+                                                    "text": "実際問題新しく学ぶ人は無限にいる"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cconzzwbye80",
+                                    "created": 1625839492763,
+                                    "text": "考えることも楽しい"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccoo031sgvs0",
+                                            "created": 1625839499624,
+                                            "text": "プログラミング始めたての頃は無理だった"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccoo0bdt78g0",
+                                                    "created": 1625839517765,
+                                                    "text": "とにかくググるだけだったと思う"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccoo1nwc12w0",
+                                                            "created": 1625839623371,
+                                                            "text": "わからないところを調べるのが辛い"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "ccoo1xz88mg0",
+                                                            "created": 1625839645313,
+                                                            "text": "ドキュメントを読むのが辛い"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccoo1li5xnk0",
+                                            "created": 1625839618160,
+                                            "text": "今は楽しい"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccoo25xpen40",
+                                                    "created": 1625839662636,
+                                                    "text": "調べればなんでもわかるっていうことを知った"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo2g1hv880",
+                                                    "created": 1625839684633,
+                                                    "text": "ググり方がわかったので関連知識とかがすぐに見つかる"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo2ue5ku80",
+                                                    "created": 1625839715873,
+                                                    "text": "公式ドキュメントは正しいことが書いてある"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo30t6nj40",
+                                                    "created": 1625839729842,
+                                                    "text": "とりあえず動くかな？って感じでqiita、stackoverflowを使うのも良い"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo3k32usg0",
+                                                    "created": 1625839771800,
+                                                    "text": "わからないことでも調べればなんとでもなる"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccoo3rg1xvk0",
+                                                            "created": 1625839787822,
+                                                            "text": "なんとでもなった"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "ccoo3u2wwy00",
+                                                            "created": 1625839793557,
+                                                            "text": "できないなら代案を出せば良い"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo42eyck80",
+                                                    "created": 1625839811700,
+                                                    "text": "この感じはだめだから他のを調べようっていう見切りがつけれる"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccoo4xpv1z40",
+                                                    "created": 1625839879840,
+                                                    "text": "始める前は意味不明だったのに、見てるうちにどんどんわかってくるのがいい"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccoo5e7egv40",
+                                            "created": 1625839915729,
+                                            "text": "一発で覚えるのは今でも不得意"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccoo5j1t9vs0",
+                                                    "created": 1625839926275,
+                                                    "text": "何回もみて、忘れて、覚えるのが得意"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cconevae2ig0",
+                            "created": 1625837837082,
+                            "text": "ウッフィーの観点で"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cconezwvylk0",
+                                    "created": 1625837847150,
+                                    "text": "教育系は強いと思う"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cconr9oqdu80",
+                                    "created": 1625838808794,
+                                    "text": "コミュニティーに所属するというのはいいと思う"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
