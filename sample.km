@@ -1,0 +1,22 @@
+{
+    "root": {
+        "data": {
+            "id": "ccpcj4vc2680",
+            "created": 1625908699144,
+            "text": "parent"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccpcjaer0rk0",
+                    "created": 1625908711202,
+                    "text": "child"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
