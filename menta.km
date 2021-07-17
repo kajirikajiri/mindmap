@@ -1,0 +1,204 @@
+{
+    "root": {
+        "data": {
+            "id": "ccv0h0ozdmo0",
+            "created": 1626484039746,
+            "text": "menta"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccv0ii3s4ww0",
+                    "created": 1626484156010,
+                    "text": "今の所プランの申し込みはない"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccv0irtzvvk0",
+                            "created": 1626484177186,
+                            "text": "なぜ？"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccv0j7t0lxc0",
+                                    "created": 1626484211955,
+                                    "text": "需要がない"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccv0jwsptnk0",
+                                            "created": 1626484266357,
+                                            "text": "じゃあ需要があるのは？"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccv0jzq8m3c0",
+                                                    "created": 1626484272737,
+                                                    "text": "転職までサポートします"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccv0k5v16zs0",
+                                                    "created": 1626484286088,
+                                                    "text": "いつでも質問できます"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ccv0lkrwb5s0",
+                                            "created": 1626484396914,
+                                            "text": "自分のプランは需要がない"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccv0lqdqkqo0",
+                                                    "created": 1626484409119,
+                                                    "text": "単発で課題解決"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ccv0j52b6pk0",
+                            "created": 1626484205987,
+                            "text": "どうする"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccv0lwme7go0",
+                                    "created": 1626484422703,
+                                    "text": "転職までサポートしますプラン？"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccv0m9hmc1k0",
+                                            "created": 1626484450712,
+                                            "text": "難しいな"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ccv0mc839pk0",
+                                                    "created": 1626484456666,
+                                                    "text": "複数人でやってる人ならできるんだろうけど"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccv0oc8x3ww0",
+                                                            "created": 1626484613445,
+                                                            "text": "複数人だとやりやすいのは確か"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccv0mntpbjs0",
+                                                    "created": 1626484481918,
+                                                    "text": "個人でやってる人だと"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccv0nwgjyi00",
+                                                            "created": 1626484579078,
+                                                            "text": "複数人の方がどうしても対応できないっていう時に良いのはそう"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccv0mw6pquo0",
+                                                    "created": 1626484500119,
+                                                    "text": "できるだけやってみるのはありそう"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccv0nhclzcw0",
+                                                            "created": 1626484546188,
+                                                            "text": "そう、１人限定とかにすれば"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "ccv0noym1wo0",
+                                                                    "created": 1626484562756,
+                                                                    "text": "できそうなら２人とか増やす"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ccv0n05wa2w0",
+                                                    "created": 1626484508777,
+                                                    "text": "例えば自分が転職期間に入ったらサポートできなそう"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ccv0nagip3k0",
+                                                            "created": 1626484531187,
+                                                            "text": "それは複数人でやってても一緒では？"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ccv0omihfiw0",
+                                    "created": 1626484635791,
+                                    "text": "いつでも質問？"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccv0qqta8fc0",
+                                            "created": 1626484801879,
+                                            "text": "１週間で試してみるのがいいかな"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
