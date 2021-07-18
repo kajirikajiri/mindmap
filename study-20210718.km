@@ -1,0 +1,116 @@
+{
+    "root": {
+        "data": {
+            "id": "ccvvp66qqow0",
+            "created": 1626572133024,
+            "text": "やること"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccvvp8yojow0",
+                    "created": 1626572139067,
+                    "text": "インフラ"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvvpbwaje00",
+                            "created": 1626572145453,
+                            "text": "aws"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccvvpd2paxc0",
+                                    "created": 1626572148017,
+                                    "text": "会社で使ってる。もっと知りたい"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccvvpk0rxt40",
+                                            "created": 1626572163138,
+                                            "text": "メンターをしていて、解決できないことが多い"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ccvvprl41e00",
+                                    "created": 1626572179605,
+                                    "text": "料金がきになる"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ccvvpwbjtc00",
+                                    "created": 1626572189911,
+                                    "text": "blue-greenのやつやりたい"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ccvvq5r87qg0",
+                                    "created": 1626572210450,
+                                    "text": "kajiri.devにログインしたら使えるページを用意して、そこで試そう"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccvvqlpk7zc0",
+                    "created": 1626572245178,
+                    "text": "デザイン"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvvqo2dupk0",
+                            "created": 1626572250307,
+                            "text": "figmaかな？"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ccvvqrlg2qo0",
+                                    "created": 1626572257989,
+                                    "text": "業務で使ってるし、ある程度勝手がわかる"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccvvsergx9s0",
+                    "created": 1626572386784,
+                    "text": "順番"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvvsgaucgw0",
+                            "created": 1626572390132,
+                            "text": "とりあえずインフラやりたいな"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
