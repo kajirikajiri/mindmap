@@ -1,0 +1,65 @@
+{
+    "root": {
+        "data": {
+            "id": "ccvywlzoko00",
+            "created": 1626581179304,
+            "text": "rust"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ccvywoamh9c0",
+                    "created": 1626581184319,
+                    "text": "foundationが強い"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvywqrgp7k0",
+                            "created": 1626581189691,
+                            "text": "https://foundation.rust-lang.org/"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccvyx5agtmg0",
+                    "created": 1626581221315,
+                    "text": "愛されている"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvyxc94auw0",
+                            "created": 1626581236471,
+                            "text": "https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ccvyxhv8q680",
+                    "created": 1626581248693,
+                    "text": "給与がたかい"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ccvyxl4na5c0",
+                            "created": 1626581255792,
+                            "text": "https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
