@@ -1,0 +1,66 @@
+{
+    "root": {
+        "data": {
+            "id": "cepvqz1cnl40",
+            "created": 1633275231329,
+            "text": "ideas"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cepvr2nzyhc0",
+                    "created": 1633275239229,
+                    "text": "deepl chrome-extension"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cepvradwk940",
+                            "created": 1633275256032,
+                            "text": "すでに作成されているものはこちら\nhttps://chrome.google.com/webstore/detail/deepl%E7%BF%BB%E8%A8%B3/alghoachpmoojgnopkdopgbhmdjomcaa/related?hl=ja"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cepvrwvnn080",
+                                    "created": 1633275304995,
+                                    "text": "新しくwindowが開かれるのは個人的に使いづらい。例えば、Google Transratorのchrome extensionの方が使いやすい。"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cepvsmh8awo0",
+                                            "created": 1633275360719,
+                                            "text": "これを再現するには、右クリックした位置を割り出し、その位置の上にiframeで埋め込み、pop overさせれば良い"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cepvtk2wkc00",
+                            "created": 1633275433863,
+                            "text": "deeplのページは原文と翻訳した後が両方表示されるが、片方を折り畳み全体が表示されるでもいいと思った。その機能を追加するもの。"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cepvuhbp1uo0",
+                                    "created": 1633275506229,
+                                    "text": "URLで判別して、該当ページなら左右に折り畳みできるようにする。見本としてはcodesandbox。これはwebpageに埋め込むと左右に折り畳みできたと思う"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
