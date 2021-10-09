@@ -1,0 +1,1068 @@
+{
+    "root": {
+        "data": {
+            "id": "ceusvw3vro80",
+            "created": 1633774953226,
+            "text": "ふむー",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ceutgdmhohs0",
+                    "created": 1633776558640,
+                    "text": "できること",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceusyiovns00",
+                            "created": 1633775159113,
+                            "text": "ooui"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceusycvvbb40",
+                            "created": 1633775146475,
+                            "text": "programming"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuswbtx71k0",
+                            "created": 1633774987452,
+                            "text": "javascript"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceusxovo6c00",
+                            "created": 1633775094220,
+                            "text": "e2eテスト"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceusw140h400",
+                            "created": 1633774964118,
+                            "text": "bot作成"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutgnxnfq80",
+                    "created": 1633776581082,
+                    "text": "方向性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutgs6fvrc0",
+                            "created": 1633776590321,
+                            "text": "大企業"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceutgv8nlr40",
+                            "created": 1633776596985,
+                            "text": "中小企業"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceutgya68xk0",
+                            "created": 1633776603607,
+                            "text": "スタートアップ"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuthomagv40",
+                            "created": 1633776660936,
+                            "text": "エンジニア"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuthq3ej8o0",
+                            "created": 1633776664148,
+                            "text": "デザイナ"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuthshmzrc0",
+                    "created": 1633776669362,
+                    "text": "独創性"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuuqctnhpc0",
+                            "created": 1633780161647,
+                            "text": "単純な作業は機械に置き換わっていっているのは実感する"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuuqjxrlyw0",
+                                    "created": 1633780177134,
+                                    "text": "複雑な仕事はまだ無理"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuuqspw34w0",
+                                    "created": 1633780196249,
+                                    "text": "みんなの銀行が出来上がった"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuur6fr8bc0",
+                                    "created": 1633780226111,
+                                    "text": "googleがpringを買収した"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuureepy200",
+                                    "created": 1633780243462,
+                                    "text": "paypayがsuicaを抜いた"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceuurm2l32o0",
+                            "created": 1633780260143,
+                            "text": "アート"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuurplync00",
+                                    "created": 1633780267845,
+                                    "text": "もしかしたら適当なアートであれば機械でもできる"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuurvw76m00",
+                                    "created": 1633780281525,
+                                    "text": "ファンがついている人のアートであれば話は別"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuti2dioc00",
+                    "created": 1633776690881,
+                    "text": "機械にできない"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuti4xyhvc0",
+                            "created": 1633776696470,
+                            "text": "発想"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuti6efx1c0",
+                            "created": 1633776699644,
+                            "text": "イメージ"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuti8vmvw00",
+                            "created": 1633776705037,
+                            "text": "コラボレーション"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuu6jolq80",
+                            "created": 1633780461441,
+                            "text": "コミュニケーション"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutidekmzk0",
+                    "created": 1633776714889,
+                    "text": "人脈"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuv3u41wv40",
+                            "created": 1633781218016,
+                            "text": "副業プラットフォームの受けは良い。"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuv5218ii80",
+                                    "created": 1633781313624,
+                                    "text": "非常に良い。そこを入り口として、専用のLP(プロフィール)を作成し、自分のできることを披露していくことは手段として良さそう"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuv5a06ri00",
+                                    "created": 1633781330975,
+                                    "text": "性質的にアップデートされた場合にPVを稼ぎやすいので、LPを綺麗にした段階で副業プラットフォームを更新するのはありかも"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuweyb38kg0",
+                                    "created": 1633784910264,
+                                    "text": "入りたい企業を選んだとしても入社できるだろうと思うくらいにはいいねがくる。"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutihi6xnk0",
+                    "created": 1633776723815,
+                    "text": "SNS戦略"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutjeav2bs0",
+                            "created": 1633776795206,
+                            "text": "広告を出すなら本当に必要な広告・相手に有益な広告を"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutju1zn540",
+                                    "created": 1633776829498,
+                                    "text": "もしくは本当に自分が知ってもらいたいことを"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutikuzl880",
+                    "created": 1633776731119,
+                    "text": "情報"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutv82ikgw0",
+                            "created": 1633777722010,
+                            "text": "情報はお金になる"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutk6x07340",
+                    "created": 1633776857495,
+                    "text": "失敗した時のリスク"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutk9omw5c0",
+                            "created": 1633776863519,
+                            "text": "ある程度リスクを想定する"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutkh9i9k00",
+                                    "created": 1633776880018,
+                                    "text": "大体のことは大したリスクではない"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutkvh7dh40",
+                    "created": 1633776910959,
+                    "text": "貯金残高のリスク"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutonz0nm80",
+                            "created": 1633777208078,
+                            "text": "次の全てを満たすと預金残高マイナスに突入できる"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutovov8jk0",
+                                    "created": 1633777224879,
+                                    "text": "総合口座を開設"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceutp0cgca00",
+                                    "created": 1633777235012,
+                                    "text": "総合口座内で定期預金を開設"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceutp6pjs6g0",
+                                    "created": 1633777248865,
+                                    "text": "普通預金の残高以上の引き落としが発生"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceutpf0bzg00",
+                            "created": 1633777266931,
+                            "text": "私は普通預金口座しか持っていないので、マイナスにはならない"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutw13syq00",
+                    "created": 1633777785215,
+                    "text": "MENTA以外のもの"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutw899pk00",
+                            "created": 1633777800783,
+                            "text": "codeboy"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutw9xwuu80",
+                                    "created": 1633777804450,
+                                    "text": "厳正な審査に毎回落ちてる。どうすればいいのか不明"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutwslq0940",
+                    "created": 1633777845072,
+                    "text": "draggable ts コンポーネント"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceutwxevza80",
+                    "created": 1633777855542,
+                    "text": "rustでjavascriptの既存のやつを置き換える"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutx3lyvew0",
+                            "created": 1633777869031,
+                            "text": "例えばcookie管理"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceutxggpolc0",
+                    "created": 1633777897011,
+                    "text": "自分のブログからMENTAへ飛ばすのはどう？"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceutxkyo9q00",
+                            "created": 1633777906805,
+                            "text": "手数料が大きいからできれば自分のブログで完結したい",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutxu53fiw0",
+                                    "created": 1633777926784,
+                                    "text": "契約の諸々の分の手数料と考えればまし？"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ceutyav9xl40",
+                                    "created": 1633777963195,
+                                    "text": "MENTAから垢BANされたら終わるけどね"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceutyk4dbj40",
+                            "created": 1633777983336,
+                            "text": "MENTAに垢BANされたら終わるから自分のブログにおきたい"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceutyq4xgoo0",
+                            "created": 1633777996431,
+                            "text": "法律の部分が面倒"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceutyxxy6gw0",
+                                    "created": 1633778013423,
+                                    "text": "これを試してみてのリスクは？"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ceutz45b3w80",
+                                            "created": 1633778026929,
+                                            "text": "法だから下手したらリスクはでかい"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuu86b8u9k0",
+                    "created": 1633778736919,
+                    "text": "プラットフォームは人が集まる"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuu8bbvnc80",
+                    "created": 1633778747841,
+                    "text": "自分の曲をサイトに上げて、自由に使っていいよとやると最終的に売り上げにつながったらしい。uffyの本"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuu8yh06740",
+                            "created": 1633778798217,
+                            "text": "なのに、OSSはあんなに使われて、starもついて、forkもされてるのに、作者は何もしなければ儲からない。"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuu9cfwlcg0",
+                                    "created": 1633778828625,
+                                    "text": "何もしてないんじゃ？"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ceuu9gvlsww0",
+                                            "created": 1633778838282,
+                                            "text": "音楽作ったやつは確かグッズ販売とかに力を入れていたと思う"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ceuu9v8vlcw0",
+                                    "created": 1633778869559,
+                                    "text": "pvを集めるだけでは、pvを集めるだけになってしまう"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ceuua6i51ww0",
+                                            "created": 1633778894064,
+                                            "text": "コンバージョンする必要がある"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ceuuaa7nx400",
+                                                    "created": 1633778902138,
+                                                    "text": "だが、githubのsupportでは大した金額にならないらしい"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "ceuuasbmywg0",
+                                                            "created": 1633778941560,
+                                                            "text": "そしてプログラマにしかリーチしない"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "ceuub4gkyvc0",
+                                                                    "created": 1633778967980,
+                                                                    "text": "音楽は誰でも楽しめる。総人口が違うだろうし、楽しみかたの方向もちがうだろう"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuubj68giw0",
+                                                                            "created": 1633779000007,
+                                                                            "text": "OSSの利用者は自分のプログラムを効率よく作ることに集中しているし、それによって利益を得ようとしている"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuucdqbzm00",
+                                                                            "created": 1633779066525,
+                                                                            "text": "音楽のリスナーは楽しくて聞いている。例えばその音楽を聞いて、それを生かして自分の曲を作ろうという人は稀だろう"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuuewh7o8g0",
+                                                                            "created": 1633779264061,
+                                                                            "text": "vrなら？"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuufoo6a540",
+                                                                                    "created": 1633779325432,
+                                                                                    "text": "コンテンツを購入して、これを生かして自分のものを作ろうとはならんだろう"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "ceuuglctyjk0",
+                                                                                            "created": 1633779396580,
+                                                                                            "text": "当たればありだな"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "ceuugrnbcqw0",
+                                                                                            "created": 1633779410274,
+                                                                                            "text": "botだと、倫理的にとか法的にどうなん？ていうのが常に気になるけどarやvrは気にならない直感で"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuuf8wknts0",
+                                                                            "created": 1633779291111,
+                                                                            "text": "arなら？"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuufzj25a80",
+                                                                                    "created": 1633779349067,
+                                                                                    "text": "コンテンツを購入して、これを生かして自分のものを作ろうとはならんだろう "
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuufh1t8uo0",
+                                                                            "created": 1633779308842,
+                                                                            "text": "iotなら?",
+                                                                            "expandState": "expand"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuudifmikg0",
+                                                                                    "created": 1633779155126,
+                                                                                    "text": "どうなる？それを生かしてさらに稼ごうという発想は出なそう。このロボットいいな楽しい！他の人にもおすすめできる！みたいな方向性が考えられる"
+                                                                                },
+                                                                                "children": [
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "ceuue3fhoc80",
+                                                                                            "created": 1633779200830,
+                                                                                            "text": "ロボットというハードウェアは壊れる。いつか買い替えの需要が発生するけど、普通の人は直せないだろう。"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    },
+                                                                                    {
+                                                                                        "data": {
+                                                                                            "id": "ceuuei4pqhs0",
+                                                                                            "created": 1633779232830,
+                                                                                            "text": "面白い、楽しいロボットならおすすめされて、他の人に波及しそう"
+                                                                                        },
+                                                                                        "children": []
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuukagfb9k0",
+                                                                            "created": 1633779686309,
+                                                                            "text": "mrなら"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuukccnic00",
+                                                                                    "created": 1633779690435,
+                                                                                    "text": "これは性質的に音楽とかに似ている"
+                                                                                },
+                                                                                "children": []
+                                                                            },
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuultwvreg0",
+                                                                                    "created": 1633779807027,
+                                                                                    "text": "mixed reality"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuukka4kao0",
+                                                                            "created": 1633779707696,
+                                                                            "text": "ar, vr, mr"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuukmyjcsg0",
+                                                                                    "created": 1633779713526,
+                                                                                    "text": "今は成長段階"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuuktjh2hs0",
+                                                                            "created": 1633779727852,
+                                                                            "text": "ブロックチェーン"
+                                                                        },
+                                                                        "children": [
+                                                                            {
+                                                                                "data": {
+                                                                                    "id": "ceuulpwfuxs0",
+                                                                                    "created": 1633779798293,
+                                                                                    "text": "お金が絡んでいる"
+                                                                                },
+                                                                                "children": []
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "ceuwaubcg7k0",
+                                                                            "created": 1633784588116,
+                                                                            "text": "ai"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuunm7wxko0",
+                    "created": 1633779947008,
+                    "text": "できることなら月額課金モデルが良い"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuuntndgrs0",
+                            "created": 1633779963181,
+                            "text": "できることなら自分のリソースがいらない、もしくは必要としなくなっていくモデルが良い"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuv79guq400",
+                            "created": 1633781486534,
+                            "text": "コンサル的な立ち位置は収益的に良い"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuup2u9syo0",
+                    "created": 1633780061553,
+                    "text": "販売プラットフォーム"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuupa0wmpc0",
+                            "created": 1633780077192,
+                            "text": "base"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuupazw3a80",
+                            "created": 1633780079307,
+                            "text": "note"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuupcc33so0",
+                            "created": 1633780082221,
+                            "text": "zenn"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuupdlh4m00",
+                            "created": 1633780084966,
+                            "text": "menta"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuvp9mc36g0",
+                                    "created": 1633782897420,
+                                    "text": "メンティーした後にレビューを依頼するのはどう？"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuq54otf40",
+                            "created": 1633780144901,
+                            "text": "lancers"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuwgiqpug0",
+                            "created": 1633780639880,
+                            "text": "プログラミングしたものをどれかしらのプラットフォームで販売したい"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuuwqb4yew0",
+                                    "created": 1633780661188,
+                                    "text": "だが、draggableのようなものはプログラミング技術を見せるという力はあるが、販売には繋がらない"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ceuux5k55jk0",
+                                            "created": 1633780694384,
+                                            "text": "いや、綺麗だとか、独創性がとかで売れるかもしれない"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "ceuuxggqm3k0",
+                                            "created": 1633780718123,
+                                            "text": "昨日としてはただ場所が入れ替わるだけ"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuus49lkl40",
+                    "created": 1633780299749,
+                    "text": "独創性ではなくファン？"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuut44d8mw0",
+                    "created": 1633780377797,
+                    "text": "漫画"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuut5deqh40",
+                    "created": 1633780380520,
+                    "text": "絵画"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuut88mazk0",
+                    "created": 1633780386761,
+                    "text": "音楽"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuuuh0t4540",
+                    "created": 1633780484244,
+                    "text": "確信はないが、プロフィール写真を良さげにしたらdmでの企業からの連絡が格段に増えた"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuuuz4ujow0",
+                            "created": 1633780523670,
+                            "text": "kajiri.devのプロフィールページの拡充"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuuv4gd3zc0",
+                                    "created": 1633780535251,
+                                    "text": "各種アカウントの配置"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuuvac77n40",
+                    "created": 1633780548059,
+                    "text": "各種プラットフォームに設置した記事を移植"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuuw7kaboo0",
+                    "created": 1633780620382,
+                    "text": "色々なものに手を出すと色々な場所のPVが稼げる"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "ceuuxwmkkow0",
+                    "created": 1633780753304,
+                    "text": "ネイル"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "ceuuxzr9h400",
+                            "created": 1633780760118,
+                            "text": "例えばこれは作った後、自動的に劣化していく"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuy9qsgw00",
+                            "created": 1633780781857,
+                            "text": "一つの作品として作られる"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuyhaxdfk0",
+                            "created": 1633780798312,
+                            "text": "品質やその人のコミュニケーション力など"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuuyvzdgz40",
+                                    "created": 1633780830266,
+                                    "text": "色々な価値が組み上がって売れる"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuz26ae000",
+                            "created": 1633780843744,
+                            "text": "またあの人にやってほしいというような信頼が生まれる"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "ceuuzc3ly000",
+                            "created": 1633780865350,
+                            "text": "プログラミングの場合は動いて当たり前のような風潮がある。それを前提にするのはなかなか大変"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ceuuzvnbr6o0",
+                                    "created": 1633780907901,
+                                    "text": "ネイルが簡単だと言っているのではない。聞いた限りでは２時間３時間長くても１日以内には完成されるだろう"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ceuv0f2uqmg0",
+                                            "created": 1633780950199,
+                                            "text": "プログラミングは短くても製品ができるには１週間はいるだろう"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "ceuv0vm194w0",
+                                                    "created": 1633780986187,
+                                                    "text": "時間相応の金額で販売する必要がある"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "ceuv1br0udc0",
+                                                    "created": 1633781021318,
+                                                    "text": "プラットフォームとしてLPを確立し、製品を複数持ち、販売していくというのはありかも"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ceuv2uaw7740",
+                            "created": 1633781140065,
+                            "text": "プログラミングは常にそれをアップデートしていく。もちろん部分的に壊れることはあるが、それで終わりではなく、そこを元に戻して、開発を続けていく。性質が異なる"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "ceuv9k5ykj40",
+                    "created": 1633781666548,
+                    "text": "文章の添削"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
